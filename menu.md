@@ -2,8 +2,9 @@
 
 # MENU
 
-Panino primavera: ./primavera.md
-Panino vegetariano: ./vegetariano.md
+##Panini
+Panino primavera: ./panini/primavera.md
+Panino vegetariano: ./panini/vegetariano.md
 
 Paninoteca Padovana
 
