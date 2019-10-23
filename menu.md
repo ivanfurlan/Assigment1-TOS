@@ -7,6 +7,7 @@ Panino primavera: ./panini/primavera.md
 Panino vegetariano: ./panini/vegetariano.md
 
 ##Primi
+Arancini: ./fritti/arancini.md
 
 Paninoteca Padovana
 
