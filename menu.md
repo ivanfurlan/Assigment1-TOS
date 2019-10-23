@@ -7,6 +7,7 @@ Panino primavera: ./panini/primavera.md
 Panino vegetariano: ./panini/vegetariano.md
 
 ##Primi
+Olive Ascolane: ./fritti/olive_ascolane.md
 
 Paninoteca Padovana
 
